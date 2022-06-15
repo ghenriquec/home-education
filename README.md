@@ -1,6 +1,6 @@
 # Homeducation
 <h1 align="center">
-    <img alt="Homeducation" src="assets/home.svg" height="100px" />
+    <img alt="Homeducation" src="assets/Home.svg" height="100px" />
     <br>Homeducation<br/>
     Node.js | ReactJS | React Native
 </h1>
@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="assets/Pitchdeck.svg" />
+  <img alt="design do projeto" width="650px" src="assets/PitchDeck.svg" />
 <p>
 
 ## :bookmark: Sobre
 
-O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
+O **Homeducation** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
   
-Este projeto foi idealizado durante as aulas de vida e carreira propostas pelo centro universitario UNA, liderado pelo professor Diego
+Este projeto foi idealizado durante as aulas de vida e carreira propostas pelo centro universitario UNA, liderado pelo professor Diego.
 
 ## :rocket: Tecnologias
 
@@ -31,4 +31,5 @@ Este projeto foi idealizado durante as aulas de vida e carreira propostas pelo c
 -  [Express](https://expressjs.com/)
 -  [axios](https://github.com/axios/axios)
 
-    
+## :rocket: Licença
+  
