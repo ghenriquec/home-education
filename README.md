@@ -1,6 +1,6 @@
 # Homeducation
 <h1 align="center">
-    <img alt="Proffy" src=".github/logo.svg" height="100px" />
+    <img alt="Homeducation" src="assets/home.svg" height="100px" />
     <br>Homeducation<br/>
     Node.js | ReactJS | React Native
 </h1>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="#" />
+  <img alt="design do projeto" width="650px" src="assets/Pitchdeck.svg" />
 <p>
 
 ## :bookmark: Sobre
@@ -30,3 +30,5 @@ Este projeto foi idealizado durante as aulas de vida e carreira propostas pelo c
 -  [Expo](https://expo.io/)
 -  [Express](https://expressjs.com/)
 -  [axios](https://github.com/axios/axios)
+
+    
