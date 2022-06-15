@@ -1,7 +1,6 @@
 # Homeducation
 <h1 align="center">
     <img alt="Homeducation" src="assets/Home.svg" height="100px" />
-    <br>Homeducation<br/>
     Node.js | ReactJS | React Native
 </h1>
 
@@ -31,5 +30,18 @@ Este projeto foi idealizado durante as aulas de vida e carreira propostas pelo c
 -  [Express](https://expressjs.com/)
 -  [axios](https://github.com/axios/axios)
 
-## :rocket: Licença
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através dos links abaixo:
+
+- [Layout Web](https://www.figma.com/community/file/1119025569708536806) 
+- [Layout Mobile](https://www.figma.com/community/file/1119025569708536806) 
+
+Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
   
